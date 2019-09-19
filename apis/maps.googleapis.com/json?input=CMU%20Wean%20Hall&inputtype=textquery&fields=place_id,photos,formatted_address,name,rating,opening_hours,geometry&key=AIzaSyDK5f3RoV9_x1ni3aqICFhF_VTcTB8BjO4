@@ -1,0 +1,40 @@
+{
+   "candidates" : [
+      {
+         "formatted_address" : "Hamerschlag Dr, Pittsburgh, PA 15213, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.44272170000001,
+               "lng" : -79.9457395
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.44415447989272,
+                  "lng" : -79.94437632010727
+               },
+               "southwest" : {
+                  "lat" : 40.44145482010728,
+                  "lng" : -79.94707597989272
+               }
+            }
+         },
+         "name" : "Wean Hall",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105547548756280117225/photos\"\u003e张钊\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA68-F_4sKzXYljSKZt29wqGojnUMM4k1lY-TUGt7IabqRBC64_dp-XGiuVlu6RuZOPcevyfrwBCXqWYTDj4CtaNcWNbAp4QHrg51aOQcx1Ktor81rxy1-mP0q-Je_UkizEhAMRG6vQEbNd4PtnJbAQvD4GhQd0P7QCmUKTuE4P2zHH6n0CCTr3A",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJe9AmGCHyNIgR--E-Po6lSNo",
+         "rating" : 4.5
+      }
+   ],
+   "debug_log" : {
+      "line" : []
+   },
+   "status" : "OK"
+}
